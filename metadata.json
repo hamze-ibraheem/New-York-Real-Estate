@@ -1,0 +1,8 @@
+{
+  "name": "New York Real Estate",
+  "description": "A high-converting landing page for New York Real Estate, featuring trusted services, social proof, and a streamlined contact process.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
