@@ -41,6 +41,15 @@ export default function App() {
         <div>&copy; {new Date().getFullYear()} New York Real Estate. All rights reserved.</div>
         <div className="hidden md:block">This is a concept design built based on CRO principles.</div>
       </footer>
+
+      <a 
+        href="https://auroraadv.co/?tab=wizard" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="fixed bottom-6 right-6 z-50 w-32 h-32 bg-[#B45309] text-white rounded-full flex items-center justify-center text-center p-4 shadow-[0_0_30px_rgba(180,83,9,0.3)] hover:scale-105 hover:bg-[#92400e] transition-all duration-300 font-bold text-xs uppercase tracking-wider border-4 border-white"
+      >
+        Get this website for only $999
+      </a>
     </div>
   );
 }
